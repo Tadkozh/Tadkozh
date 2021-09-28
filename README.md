@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and playing music
 - 🌱 I’m currently learning Javascript
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 💞️ I’m about to begin the Wild Code School next september.
+- 💞️ I began the Wild Code School on september.
 
 - 📫 How to reach me :
   - https://github.com/Tadkozh
