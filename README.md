@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tadkozh | Franck CARIO
 - 👀 I’m interested in coding and playing music
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript (Vanilla, NodeJS, React)
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 💞️ I began the Wild Code School on september.
 
