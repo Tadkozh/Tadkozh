@@ -11,6 +11,11 @@
   - https://www.facebook.com/infodocbib
   - https://infodocbib.net/
 
+Collaborations :
+  - ✨ WCS Project 1 : https://rodolphebeloncle.github.io/city-light/
+  - ✨ WCS Project 2 : https://github.com/WildCodeSchool/smoothy-P2/tree/dev
+  - ✨ WCS Hackathon 1 : https://github.com/Francescosaverio1989/Flow
+
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
