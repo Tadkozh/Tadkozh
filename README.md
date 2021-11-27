@@ -16,6 +16,10 @@ Collaborations :
   - ✨ WCS Project 2 : https://github.com/WildCodeSchool/smoothy-P2/tree/dev
   - ✨ WCS Hackathon 1 : https://github.com/Francescosaverio1989/Flow
 
+Other works :
+  - ✨ https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21
+  - ✨ https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint2
+
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
