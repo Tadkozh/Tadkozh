@@ -19,6 +19,7 @@ Collaborations :
 Other works :
   - ✨ https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario
   - ✨ https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint2/tree/cario_franck
+  - ✨ https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint-3/tree/cario_franck
 
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
