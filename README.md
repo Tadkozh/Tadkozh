@@ -12,14 +12,14 @@
   - https://infodocbib.net/
 
 Collaborations :
-  - ✨ WCS Project 1 : https://rodolphebeloncle.github.io/city-light/
-  - ✨ WCS Project 2 : https://github.com/WildCodeSchool/smoothy-P2/tree/dev
-  - ✨ WCS Hackathon 1 : https://github.com/Francescosaverio1989/Flow
+  - ✨ WCS Project 1 - CSS : https://rodolphebeloncle.github.io/city-light/
+  - ✨ WCS Project 2 - React : https://github.com/WildCodeSchool/smoothy-P2/tree/dev
+  - ✨ WCS Hackathon 1 - React : https://github.com/Francescosaverio1989/Flow
 
 Other works :
-  - ✨ https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario
-  - ✨ https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint2/tree/cario_franck
-  - ✨ https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint-3/tree/cario_franck
+  - ✨ Checkpoint1 - CSS : https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario
+  - ✨ Checkpoint2 - React : https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint2/tree/cario_franck
+  - ✨ Checkpoint3 - Express : https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint-3/tree/cario_franck
 
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
