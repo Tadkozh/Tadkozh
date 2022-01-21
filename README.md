@@ -15,7 +15,7 @@ Collaborations :
   - ✨ WCS Project 1 - CSS : https://rodolphebeloncle.github.io/city-light/
   - ✨ WCS Project 2 - React : https://github.com/WildCodeSchool/smoothy-P2/tree/dev
   - ✨ WCS Project 3 - React : https://github.com/WildCodeSchool/remote-fr-lemuriens-divin-frontend (in progress)
-                      Express : https://github.com/WildCodeSchool/remote-fr-lemuriens-divin-backend (in progress)
+  - ✨ WCS Project 3 - Express : https://github.com/WildCodeSchool/remote-fr-lemuriens-divin-backend (in progress)
   - ✨ WCS Hackathon 1 - React : https://github.com/Francescosaverio1989/Flow
   - ✨ WCS Hackathon 2 - React : https://github.com/Paul-Verdure/team-boulet/tree/main/team-boulet
 
