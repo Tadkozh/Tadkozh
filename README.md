@@ -25,8 +25,8 @@ Other works :
   - ✨ WCS Checkpoint1 - CSS : https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario
   - ✨ WCS Checkpoint2 - React : https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint2/tree/cario_franck
   - ✨ WCS Checkpoint3 - Express : https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint-3/tree/cario_franck
-  - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback
-  - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront
+  - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback (in progress)
+  - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
