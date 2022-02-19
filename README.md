@@ -24,7 +24,7 @@ Collaborations :
 Other works :
   - ✨ WCS Checkpoint1 - CSS : https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario (internal)
   - ✨ WCS Checkpoint2 - React : https://github.com/Tadkozh/Wild-Games
-  - ✨ WCS Checkpoint3 - Express : https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint-3/tree/cario_franck (private)
+  - ✨ WCS Checkpoint3 - Express : https://github.com/Tadkozh/ExpressMusic
   - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback (in progress)
   - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
