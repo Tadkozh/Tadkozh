@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tadkozh | Franck CARIO
 - 👀 I’m interested in coding and playing music
-- 🌱 I’m currently learning JavaScript (Vanilla, NodeJS, React)
+- 🌱 I’m a JavaScript developper(Vanilla, NodeJS, Express, React)
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 💞️ I began the Wild Code School on september.
+- 💞️ After the Wild Code School in 2022, I started React Mastery in October, to specialize in React.
 
 - 📫 How to reach me :
   - https://github.com/Tadkozh
