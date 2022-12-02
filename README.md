@@ -28,9 +28,6 @@ Other works :
   - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback (in progress)
   - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
-{{range rss "https://medium.com/feed/@gosev" 10}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
 
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
