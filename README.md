@@ -28,8 +28,7 @@ Other works :
   - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback (in progress)
   - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
-## 📜 My recent blog posts
-{{range rss "https://infodocbib.net/feed/"}}
+{{range rss "https://medium.com/feed/@gosev" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
