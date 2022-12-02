@@ -33,6 +33,11 @@ Other works :
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+## 📜 🇬🇧 My recent blog posts
+{{range rss "https://medium.com/feed/@gosev" 10}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 <!---
 Tadkozh/Tadkozh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
