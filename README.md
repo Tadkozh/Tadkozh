@@ -29,7 +29,7 @@ Other works :
   - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
 ## 📜 My recent blog posts
-{{range rss "https://infodocbib.net/feed/" 5}}
+{{range rss "https://infodocbib.net/feed/" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
