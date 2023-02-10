@@ -16,7 +16,6 @@ Autonomous and rigorous, I like well done work and optimized code.
   - https://www.facebook.com/infodocbib
   - https://infodocbib.net/
   - https://portfolio.infodocbib.net/
-  - ![https://portfolio.infodocbib.net/](https://infodocbib.net/logos/portfolio.svg "portfolio")
 
 Collaborations :
   - ✨ WCS Project 1 - CSS : https://github.com/Tadkozh/city-light
@@ -35,8 +34,6 @@ Other works :
   - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback (in progress)
   - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
-A few tools :
-![Git](https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667 "Git")
 <!---
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
