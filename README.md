@@ -25,6 +25,7 @@ Collaborations :
   - ✨ WCS Hackathon 1 - React : https://github.com/Francescosaverio1989/Flow
   - ✨ WCS Hackathon 2 - React : https://github.com/Paul-Verdure/team-boulet/tree/main/team-boulet
   - ✨ WCS remerciements - React : https://github.com/nono-web/merci-francois/tree/0f77e1e834cb8818be258a82341c4739848d90d2
+  - ✨ ReactMastery Manganime - React : https://github.com/Tadkozh/manganime
 
 Other works :
   - ✨ WCS Checkpoint1 - CSS : https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario (internal)
@@ -33,6 +34,8 @@ Other works :
   - ✨ WCS Checkpoint4 - Express : https://github.com/Tadkozh/checkpoint4cineback (in progress)
   - ✨ WCS Checkpoint4 - React : https://github.com/Tadkozh/checkpoint4cinefront (in progress)
 
+A few tools :
+![Git](https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667 "Git")
 <!---
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
