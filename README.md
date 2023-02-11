@@ -18,6 +18,7 @@ Autonomous and rigorous, I like well done work and optimized code.
   - https://portfolio.infodocbib.net/
 
   - ![https://portfolio.infodocbib.net/](https://infodocbib.net/logos/portfolio.svg "portfolio")
+  -   <a href = "https://portfolio.infodocbib.net/"><svg xmlns="http://www.w3.org/2000/svg" xlink:href="https://portfolio.infodocbib.net/" width="52" height="52" viewBox="0 0 20 20"><path fill="#FF0000" d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg></a>
 
 Collaborations :
   - ✨ WCS Project 1 - CSS : https://github.com/Tadkozh/city-light
