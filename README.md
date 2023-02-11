@@ -17,6 +17,8 @@ Autonomous and rigorous, I like well done work and optimized code.
   - https://infodocbib.net/
   - https://portfolio.infodocbib.net/
 
+  - ![https://portfolio.infodocbib.net/](https://infodocbib.net/logos/portfolio.svg "portfolio")
+
 Collaborations :
   - ✨ WCS Project 1 - CSS : https://github.com/Tadkozh/city-light
   - ✨ WCS Project 2 - React : https://github.com/Tadkozh/smoothy-P2
