@@ -24,6 +24,8 @@ Autonomous and rigorous, I like well done work and optimized code.
 
 <svg xmlns="http://www.w3.org/2000/svg" xlink:href="https://portfolio.infodocbib.net/" width="52" height="52" viewBox="0 0 20 20"><path fill="#FF0000" d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg>
 
+<a href="https://portfolio.infodocbib.net"><img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" style="height: 50px;"></a>
+
 <svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 20 20"><path fill="currentColor" d="m16.89 1.2l1.41 1.41c.39.39.39 1.02 0 1.41L14 8.33V18H3V3h10.67l1.8-1.8c.4-.39 1.03-.4 1.42 0zm-5.66 8.48l5.37-5.36l-1.42-1.42l-5.36 5.37l-.71 2.12z"/></svg>
   
 
