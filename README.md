@@ -18,6 +18,7 @@ Autonomous and rigorous, I like well done work and optimized code.
   - https://portfolio.infodocbib.net/
   - 
 <a href="https://portfolio.infodocbib.net/" target="_blank" rel="noopener noreferrer"><img src="https://infodocbib.net/logos/portfolio.svg" alt="Portfolio" title="Portfolio"  style="height: 50px;"></a>
+<a href="https://www.linkedin.com/in/franck-cario-infodocbib/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%23888888" alt="LinkedIn" title="Portfolio"  style="height: 50px;"></a>
 
 
 A few tools I use :
