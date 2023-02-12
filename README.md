@@ -17,8 +17,12 @@ Autonomous and rigorous, I like well done work and optimized code.
   - https://infodocbib.net/
   - https://portfolio.infodocbib.net/
   - 
-<a href="https://portfolio.infodocbib.net/" target="_blank" rel="noopener noreferrer"><img src="https://infodocbib.net/logos/portfolio.svg" alt="Portfolio" title="Portfolio"  style="height: 50px;"></a>
-<a href="https://www.linkedin.com/in/franck-cario-infodocbib/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%23888888" alt="LinkedIn" title="Portfolio"  style="height: 50px;"></a>
+<a href="https://github.com/Tadkozh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/mdi:github.svg?color=%23888888" alt="Github" title="Github"  style="height: 50px;"></a>
+<a href="https://www.linkedin.com/in/franck-cario-infodocbib/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%23888888" alt="LinkedIn" title="LinkedIn"  style="height: 50px;"></a>
+<a href="https://twitter.com/infodocbib" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/ant-design:twitter-circle-filled.svg?color=%23888888" alt="Twitter" title="Twitter"  style="height: 50px;"></a>
+<a href="https://www.facebook.com/infodocbib" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/ic:baseline-facebook.svg?color=%23888888" alt="Facebook" title="Facebook"  style="height: 50px;"></a>
+<a href="https://infodocbib.net/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/dashicons:welcome-write-blog.svg?color=%23888888" alt="Blog Pro" title="Blog Pro"  style="height: 50px;"></a>
+<a href="https://portfolio.infodocbib.net/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/dashicons:portfolio.svg?color=%23888888" alt="Portfolio" title="Portfolio"  style="height: 50px;"></a>
 
 
 A few tools I use :
