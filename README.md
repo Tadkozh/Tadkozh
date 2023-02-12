@@ -19,9 +19,11 @@ Autonomous and rigorous, I like well done work and optimized code.
 
   - ![https://portfolio.infodocbib.net/](https://infodocbib.net/logos/portfolio.svg "portfolio")
 
-<a href = "https://portfolio.infodocbib.net/"><svg xmlns="http://www.w3.org/2000/svg" xlink:href="https://portfolio.infodocbib.net/" width="52" height="52" viewBox="0 0 20 20"><path fill="#FF0000" d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg></a>
+  <a href = "https://portfolio.infodocbib.net/"><svg xmlns="http://www.w3.org/2000/svg" xlink:href="https://portfolio.infodocbib.net/" width="52" height="52" viewBox="0 0 20 20"><path fill="#FF0000" d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg></a>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 20 20"><path fill="currentColor" d="m16.89 1.2l1.41 1.41c.39.39.39 1.02 0 1.41L14 8.33V18H3V3h10.67l1.8-1.8c.4-.39 1.03-.4 1.42 0zm-5.66 8.48l5.37-5.36l-1.42-1.42l-5.36 5.37l-.71 2.12z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" xlink:href="https://portfolio.infodocbib.net/" width="52" height="52" viewBox="0 0 20 20"><path fill="#FF0000" d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg>
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 20 20"><path fill="currentColor" d="m16.89 1.2l1.41 1.41c.39.39.39 1.02 0 1.41L14 8.33V18H3V3h10.67l1.8-1.8c.4-.39 1.03-.4 1.42 0zm-5.66 8.48l5.37-5.36l-1.42-1.42l-5.36 5.37l-.71 2.12z"/></svg>
 
 Collaborations :
   - ✨ WCS Project 1 - CSS : https://github.com/Tadkozh/city-light
