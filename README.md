@@ -20,6 +20,7 @@ Autonomous and rigorous, I like well done work and optimized code.
 
 
 A few tools I use :
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"  style="height: 50px;">
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VSCode" title="VSCode"  style="height: 50px;"> <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" title="Git" style="height: 50px;"> 
 <img src="https://camo.githubusercontent.com/5e264dc8fcb694c4183413c371048cfb251b0e8ee84b64a0e8ee76750718ca50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667" alt="Firebase" title="Firebase"  style="height: 50px;">
