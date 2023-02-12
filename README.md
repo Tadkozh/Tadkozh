@@ -10,7 +10,7 @@
 
 - 📫 How to reach me :
 
-<a href="https://github.com/Tadkozh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/mdi:github.svg?color=%23888888" alt="Github" title="Github"  style="height: 50px;"></a>
+<a href="https://github.com/Tadkozh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/mdi:github.svg?color=%23375AD9" alt="Github" title="Github"  style="height: 50px;"></a>
 <a href="https://www.linkedin.com/in/franck-cario-infodocbib/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%23888888" alt="LinkedIn" title="LinkedIn"  style="height: 50px;"></a>
 <a href="https://twitter.com/infodocbib" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/ant-design:twitter-circle-filled.svg?color=%23888888" alt="Twitter" title="Twitter"  style="height: 50px;"></a>
 <a href="https://www.facebook.com/infodocbib" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/ic:baseline-facebook.svg?color=%23888888" alt="Facebook" title="Facebook"  style="height: 50px;"></a>
