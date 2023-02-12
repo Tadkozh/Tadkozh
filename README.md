@@ -5,18 +5,11 @@
 - 👀 I’m interested in coding and playing music
 - 🌱 I’m a JavaScript developper (Vanilla, NodeJS, Express, React...)
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 💞️ Having successfully completed my web developer training at Wild Code School, where I took part in several team projects with Git, I am specialising in React with the React Mastery programme. The next step in my roadmap will be TypeScript.
-
+- 💞️ Having successfully completed my web developer training at Wild Code School, where I took part in several team projects with Git, I am specialising in React with the React Mastery programme. The next step in my roadmap will be TypeScript. 
 Autonomous and rigorous, I like well done work and optimized code.
 
 - 📫 How to reach me :
-  - https://github.com/Tadkozh
-  - https://www.linkedin.com/in/franck-cario-infodocbib/
-  - https://twitter.com/infodocbib
-  - https://www.facebook.com/infodocbib
-  - https://infodocbib.net/
-  - https://portfolio.infodocbib.net/
-  - 
+
 <a href="https://github.com/Tadkozh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/mdi:github.svg?color=%23888888" alt="Github" title="Github"  style="height: 50px;"></a>
 <a href="https://www.linkedin.com/in/franck-cario-infodocbib/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%23888888" alt="LinkedIn" title="LinkedIn"  style="height: 50px;"></a>
 <a href="https://twitter.com/infodocbib" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/ant-design:twitter-circle-filled.svg?color=%23888888" alt="Twitter" title="Twitter"  style="height: 50px;"></a>
