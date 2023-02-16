@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Tadkozh | Franck CARIO
 - 👀 I’m interested in coding and playing music
-- 🌱 I am a React front-end developer with back-end and database experience that gives me a global vision of the ecosystem I am in
+- 🌱 I am a **React front-end developer** with back-end and database experience that gives me a global vision of the ecosystem I am in
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 💞️ Having successfully completed my web developer training at Wild Code School, where I took part in several team projects with Git, I am specialising in React with the React Mastery programme. The next step in my roadmap will be TypeScript. 
 - Autonomous and rigorous, I like well done work and optimized code.
