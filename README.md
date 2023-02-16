@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Tadkozh | Franck CARIO
 - 👀 I’m interested in coding and playing music
-- 🌱 I am a **React front-end developer** with back-end and database experience that gives me a global vision of the ecosystem I am in
+- 🌱 I am a **React front-end developer** with back-end and database experience that gives me a [global vision of the ecosystem I am in](https://infodocbib.net/2021/05/un-developpeur-web-devrait-connaitre/ "Les technos qu’un développeur web devrait connaitre")
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 💞️ Having successfully completed my web developer training at Wild Code School, where I took part in several team projects with Git, I am specialising in React with the React Mastery programme. The next step in my roadmap will be TypeScript. 
 - Autonomous and rigorous, I like well done work and optimized code.
@@ -40,7 +40,7 @@ Collaborations :
   - ✨ WCS Hackathon 1 - **React** : https://github.com/Francescosaverio1989/Flow
   - ✨ WCS Hackathon 2 - **React** : https://github.com/Paul-Verdure/team-boulet/tree/main/team-boulet
   - ✨ WCS remerciements - **React** : https://github.com/nono-web/merci-francois/tree/0f77e1e834cb8818be258a82341c4739848d90d2
-  - ✨ ReactMastery Manganime - React : https://github.com/Tadkozh/manganime
+  - ✨ ReactMastery Manganime - **React** : https://github.com/Tadkozh/manganime
 
 Other works :
   - ✨ WCS Checkpoint1 - CSS : https://github.com/WildCodeSchool/checkpoint1-portfolio-remote-sept21/tree/franck_cario (internal)
