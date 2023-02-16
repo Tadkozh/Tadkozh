@@ -5,7 +5,7 @@
 - 👀 I’m interested in coding and playing music
 - 🌱 I am a **React front-end developer** with back-end and database experience that gives me a [global vision of the ecosystem I am in](https://infodocbib.net/2021/05/un-developpeur-web-devrait-connaitre/ "The technologies a web developer should know - FR")
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 💞️ Having successfully completed my web developer training at **[Wild Code School](https://infodocbib.net/2021/06/pourquoi-jai-choisi-la-wild-code-school/ "Why I chose the Wild Code School - FR")** (WCS), where I took part in several team projects with Git, I am specialising in React with the **React Mastery** programme. The next step in my roadmap will be [TypeScript](https://infodocbib.net/2023/01/typescript-un-passage-oblige/ "TypeScript, a must? - FR"). 
+- 💞️ Having successfully completed my web developer training at **[Wild Code School](https://infodocbib.net/2021/06/pourquoi-jai-choisi-la-wild-code-school/ "Why I chose the Wild Code School - FR")** (WCS), where I took part in several **team projects** with Git, I am specialising in React with the **React Mastery** programme. The next step in my roadmap will be [TypeScript](https://infodocbib.net/2023/01/typescript-un-passage-oblige/ "TypeScript, a must? - FR"). 
 - Autonomous and rigorous, I like well done work and optimized code.
 
 - 📫 How to reach me :
