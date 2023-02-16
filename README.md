@@ -40,7 +40,7 @@ Collaborations :
   - ✨ WCS Project 3 - Express : https://github.com/WildCodeSchool/remote-fr-lemuriens-divin-backend (private)
   - ✨ WCS Hackathon 1 - **React** : https://github.com/Francescosaverio1989/Flow
   - ✨ WCS Hackathon 2 - **React** : https://github.com/Paul-Verdure/team-boulet/tree/main/team-boulet
-  - ✨ WCS remerciements - **React** : https://github.com/nono-web/merci-francois/tree/0f77e1e834cb8818be258a82341c4739848d90d2
+  - ✨ WCS remerciements - **React** : https://github.com/nono-web/merci-francois
   - ✨ ReactMastery Manganime - **React** : https://github.com/Tadkozh/manganime
 
 Other works :
